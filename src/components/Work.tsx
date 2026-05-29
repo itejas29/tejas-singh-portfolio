@@ -26,11 +26,11 @@ const projects = [
     link: "https://github.com/itejas29",
   },
   {
-    title: "Virtual Memory Simulator",
-    category: "Memory Management Simulation",
-    tools: "HTML, CSS, JavaScript",
-    image: "/images/orrdr.png",
-    link: "https://github.com/itejas29",
+    title: "Tic-Tech-Toe",
+    category: "Workflow Automation Platform",
+    tools: "Python, FastAPI, React, Groq LLM",
+    image: "/images/tictechtoe.png",
+    link: "https://github.com/preritashukla/Tic-Tech-Toe",
   },
 ];
 
