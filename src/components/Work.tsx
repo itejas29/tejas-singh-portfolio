@@ -19,7 +19,7 @@ const projects = [
     link: "https://github.com/itejas29",
   },
   {
-    title: "Tic-Tech-Toe",
+    title: "Agentic MCP Gateway",
     category: "Workflow Automation Platform",
     tools: "Python, FastAPI, React, Groq LLM",
     image: "/images/tictechtoe.png",
