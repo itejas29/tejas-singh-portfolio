@@ -26,11 +26,11 @@ const projects = [
     link: "https://github.com/preritashukla/Tic-Tech-Toe",
   },
   {
-    title: "Virtual Memory Simulator",
-    category: "Memory Management Simulation",
-    tools: "HTML, CSS, JavaScript",
-    image: "/images/orrdr.png",
-    link: "https://github.com/itejas29",
+    title: "Delivery Route Optimizer",
+    category: "A* Pathfinding System",
+    tools: "Python, Flask, OSMnx, Leaflet.js",
+    image: "/images/deliveryoptimizer.png",
+    link: "https://github.com/itejas29/Delivery-route-optimizer",
   },
 ];
 
