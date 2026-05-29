@@ -15,7 +15,7 @@ const projects = [
     title: "AttackSimulator",
     category: "Cyber Attack Simulation Platform",
     tools: "Node.js, Express, React, MongoDB, Twilio API",
-    image: "/images/whatsapp.png",
+    image: "/images/attacksimulator.png",
     link: "https://github.com/itejas29",
   },
   {
