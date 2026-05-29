@@ -8,8 +8,8 @@ const projects = [
     title: "VaultPay",
     category: "Full Stack Fintech Wallet System",
     tools: "React, Node.js, Express, MongoDB Atlas, Redis",
-    image: "/images/callhq.png",
-    link: "https://github.com/itejas29",
+    image: "/images/vaultpay.png",
+    link: "https://github.com/itejas29/vaultpay-frontend",
   },
   {
     title: "AttackSimulator",
